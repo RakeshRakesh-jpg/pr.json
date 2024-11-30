@@ -1,0 +1,348 @@
+{
+  "products": [
+    {
+      "id": 11,
+      "title": "Mechanical Gaming Keyboard KPro",
+      "description": "The KPro Mechanical Gaming Keyboard features custom RGB lighting, tactile switches, and anti-ghosting for a superior gaming experience.",
+      "category": "gadget",
+      "price": 79.99,
+      "discountPercentage": 20.0,
+      "rating": 4.8,
+      "stock": 100,
+      "tags": ["keyboard", "gaming", "gadget"],
+      "brand": "GameTech",
+      "sku": "GTKPro",
+      "weight": 900,
+      "dimensions": {
+        "width": 44,
+        "height": 3,
+        "depth": 15
+      },
+      "warrantyInformation": "2 years warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Love the RGB lights and smooth typing feel!",
+          "date": "2024-10-15T08:00:00.000Z",
+          "reviewerName": "Ava Smith",
+          "reviewerEmail": "ava.smith@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-10-15T08:00:00.000Z",
+        "updatedAt": "2024-10-15T08:00:00.000Z",
+        "barcode": "8765432109876",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/gadget/Mechanical%20Gaming%20Keyboard%20KPro/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/gadget/Mechanical%20Gaming%20Keyboard%20KPro/thumbnail.png"
+    },
+    {
+      "id": 12,
+      "title": "Wireless Gaming Keyboard GX",
+      "description": "GX Wireless Gaming Keyboard with a full-size layout, ultra-fast response, and ergonomic design. Perfect for gamers looking for wireless convenience.",
+      "category": "gadget",
+      "price": 99.99,
+      "discountPercentage": 15.0,
+      "rating": 4.7,
+      "stock": 50,
+      "tags": ["keyboard", "gaming", "wireless", "gadget"],
+      "brand": "XGame",
+      "sku": "XGKWireless",
+      "weight": 800,
+      "dimensions": {
+        "width": 45,
+        "height": 3,
+        "depth": 14
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 2-4 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Best wireless keyboard for gaming, fast and responsive!",
+          "date": "2024-10-16T09:30:00.000Z",
+          "reviewerName": "Ethan Carter",
+          "reviewerEmail": "ethan.carter@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-10-16T09:30:00.000Z",
+        "updatedAt": "2024-10-16T09:30:00.000Z",
+        "barcode": "1234567890123",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/gadget/Wireless%20Gaming%20Keyboard%20GX/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/gadget/Wireless%20Gaming%20Keyboard%20GX/thumbnail.png"
+    },
+    {
+      "id": 13,
+      "title": "Laptop Bag ProTech",
+      "description": "ProTech Laptop Bag is designed for professionals, with compartments for your laptop, accessories, and other essentials. Water-resistant and durable.",
+      "category": "gadget",
+      "price": 59.99,
+      "discountPercentage": 25.0,
+      "rating": 4.5,
+      "stock": 80,
+      "tags": ["laptop bag", "bag", "gadget"],
+      "brand": "TechGear",
+      "sku": "TGProTech",
+      "weight": 500,
+      "dimensions": {
+        "width": 40,
+        "height": 30,
+        "depth": 10
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great quality bag, fits my 15-inch laptop perfectly.",
+          "date": "2024-10-17T10:30:00.000Z",
+          "reviewerName": "Lily Johnson",
+          "reviewerEmail": "lily.johnson@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-10-17T10:30:00.000Z",
+        "updatedAt": "2024-10-17T10:30:00.000Z",
+        "barcode": "2345678901234",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/gadget/Laptop%20Bag%20ProTech/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/gadget/Laptop%20Bag%20ProTech/thumbnail.png"
+    },
+    {
+      "id": 14,
+      "title": "Gaming Laptop Bag XForce",
+      "description": "The XForce Gaming Laptop Bag is perfect for gamers on the go, with a padded laptop compartment and spacious pockets for gaming accessories.",
+      "category": "gadget",
+      "price": 79.99,
+      "discountPercentage": 10.0,
+      "rating": 4.6,
+      "stock": 60,
+      "tags": ["gaming", "laptop bag", "gadget"],
+      "brand": "XForce",
+      "sku": "XFLaptopBag",
+      "weight": 600,
+      "dimensions": {
+        "width": 45,
+        "height": 35,
+        "depth": 15
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Amazing bag for my gaming laptop, very comfortable.",
+          "date": "2024-10-18T11:00:00.000Z",
+          "reviewerName": "Zoe Lee",
+          "reviewerEmail": "zoe.lee@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-10-18T11:00:00.000Z",
+        "updatedAt": "2024-10-18T11:00:00.000Z",
+        "barcode": "3456789012345",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/gadget/Gaming%20Laptop%20Bag%20XForce/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/gadget/Gaming%20Laptop%20Bag%20XForce/thumbnail.png"
+    },
+    {
+      "id": 15,
+      "title": "Ergonomic Mouse Pad XL",
+      "description": "The Ergonomic Mouse Pad XL offers extra comfort for long hours of work or gaming, with a smooth surface and wrist support.",
+      "category": "gadget",
+      "price": 19.99,
+      "discountPercentage": 30.0,
+      "rating": 4.7,
+      "stock": 150,
+      "tags": ["mouse pad", "ergonomic", "gadget"],
+      "brand": "ComfortPlus",
+      "sku": "CPMousePadXL",
+      "weight": 200,
+      "dimensions": {
+        "width": 45,
+        "height": 30,
+        "depth": 1
+      },
+      "warrantyInformation": "6 months warranty",
+      "shippingInformation": "Ships in 2-4 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Super comfy for long gaming sessions.",
+          "date": "2024-10-19T12:00:00.000Z",
+          "reviewerName": "Mason White",
+          "reviewerEmail": "mason.white@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-10-19T12:00:00.000Z",
+        "updatedAt": "2024-10-19T12:00:00.000Z",
+        "barcode": "4567890123456",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/gadget/Ergonomic%20Mouse%20Pad%20XL/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/gadget/Ergonomic%20Mouse%20Pad%20XL/thumbnail.png"
+    },
+    {
+      "id": 16,
+      "title": "Gaming Mouse Pad Pro",
+      "description": "A premium gaming mouse pad designed for ultra-precise tracking, with a textured surface for smooth and accurate movements.",
+      "category": "gadget",
+      "price": 24.99,
+      "discountPercentage": 15.0,
+      "rating": 4.8,
+      "stock": 80,
+      "tags": ["mouse pad", "gaming", "gadget"],
+      "brand": "GameMax",
+      "sku": "GMProMousePad",
+      "weight": 250,
+      "dimensions": {
+        "width": 35,
+        "height": 25,
+        "depth": 1
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 2-4 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Best mouse pad for precision gaming.",
+          "date": "2024-10-20T13:00:00.000Z",
+          "reviewerName": "Owen Taylor",
+          "reviewerEmail": "owen.taylor@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-10-20T13:00:00.000Z",
+        "updatedAt": "2024-10-20T13:00:00.000Z",
+        "barcode": "5678901234567",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/gadget/Gaming%20Mouse%20Pad%20Pro/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/gadget/Gaming%20Mouse%20Pad%20Pro/thumbnail.png"
+    },
+    {
+      "id": 17,
+      "title": "Gaming Keyboard Razer Pro",
+      "description": "The Razer Pro Gaming Keyboard is built with mechanical switches, customizable lighting, and programmable keys for a personalized gaming experience.",
+      "category": "gadget",
+      "price": 129.99,
+      "discountPercentage": 10.0,
+      "rating": 4.9,
+      "stock": 120,
+      "tags": ["keyboard", "gaming", "gadget"],
+      "brand": "Razer",
+      "sku": "RZRProKeyboard",
+      "weight": 1100,
+      "dimensions": {
+        "width": 45,
+        "height": 5,
+        "depth": 15
+      },
+      "warrantyInformation": "2 years warranty",
+      "shippingInformation": "Ships in 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Perfect for gaming, responsive and durable!",
+          "date": "2024-10-21T14:00:00.000Z",
+          "reviewerName": "Ella Walker",
+          "reviewerEmail": "ella.walker@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-10-21T14:00:00.000Z",
+        "updatedAt": "2024-10-21T14:00:00.000Z",
+        "barcode": "6789012345678",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/gadget/Gaming%20Keyboard%20Razer%20Pro/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/gadget/Gaming%20Keyboard%20Razer%20Pro/thumbnail.png"
+    },
+    {
+      "id": 18,
+      "title": "Laptop Backpack GXPro",
+      "description": "GXPro Laptop Backpack is designed with multiple compartments for laptops and accessories, offering maximum protection and comfort on the go.",
+      "category": "gadget",
+      "price": 69.99,
+      "discountPercentage": 15.0,
+      "rating": 4.4,
+      "stock": 90,
+      "tags": ["laptop bag", "backpack", "gadget"],
+      "brand": "GXPro",
+      "sku": "GXProBackpack",
+      "weight": 700,
+      "dimensions": {
+        "width": 40,
+        "height": 30,
+        "depth": 15
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Nice bag, but could use more compartments.",
+          "date": "2024-10-22T15:30:00.000Z",
+          "reviewerName": "Mia Davis",
+          "reviewerEmail": "mia.davis@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-10-22T15:30:00.000Z",
+        "updatedAt": "2024-10-22T15:30:00.000Z",
+        "barcode": "7890123456789",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/gadget/Laptop%20Backpack%20GXPro/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/gadget/Laptop%20Backpack%20GXPro/thumbnail.png"
+    }
+  ]
+}
