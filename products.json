@@ -1,0 +1,219 @@
+{
+  "products": [
+    {
+      "id": 6,
+      "title": "Tablet Pro X",
+      "description": "The Tablet Pro X features a 10-inch high-resolution display, powerful processor, and long-lasting battery life. Ideal for productivity and entertainment.",
+      "category": "gadget",
+      "price": 499.99,
+      "discountPercentage": 15.0,
+      "rating": 4.6,
+      "stock": 40,
+      "tags": ["tablet", "gadget", "electronics"],
+      "brand": "TechX",
+      "sku": "TPX10",
+      "weight": 300,
+      "dimensions": {
+        "width": 160,
+        "height": 240,
+        "depth": 8
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great performance, smooth screen.",
+          "date": "2024-10-20T10:00:00.000Z",
+          "reviewerName": "Sophia Turner",
+          "reviewerEmail": "sophia.turner@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-10-20T10:00:00.000Z",
+        "updatedAt": "2024-10-20T10:00:00.000Z",
+        "barcode": "2345678901234",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/gadget/Tablet%20Pro%20X/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/gadget/Tablet%20Pro%20X/thumbnail.png"
+    },
+    {
+      "id": 7,
+      "title": "Gaming Tablet GPro",
+      "description": "Gaming Tablet GPro is a high-performance tablet designed specifically for gaming, with fast processing and a crystal-clear screen for immersive experiences.",
+      "category": "gadget",
+      "price": 699.99,
+      "discountPercentage": 10.0,
+      "rating": 4.8,
+      "stock": 25,
+      "tags": ["gaming", "tablet", "gadget"],
+      "brand": "GameTech",
+      "sku": "GTGPro",
+      "weight": 350,
+      "dimensions": {
+        "width": 170,
+        "height": 260,
+        "depth": 10
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 5-7 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Fantastic gaming tablet, no lag!",
+          "date": "2024-10-21T11:30:00.000Z",
+          "reviewerName": "Liam Green",
+          "reviewerEmail": "liam.green@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-10-21T11:30:00.000Z",
+        "updatedAt": "2024-10-21T11:30:00.000Z",
+        "barcode": "9876543212345",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/gadget/Gaming%20Tablet%20GPro/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/gadget/Gaming%20Tablet%20GPro/thumbnail.png"
+    },
+    {
+      "id": 8,
+      "title": "Wireless Gaming Mouse X1",
+      "description": "The Wireless Gaming Mouse X1 is designed for precision with customizable buttons, ultra-low latency, and an ergonomic design for long gaming sessions.",
+      "category": "gadget",
+      "price": 59.99,
+      "discountPercentage": 20.0,
+      "rating": 4.9,
+      "stock": 75,
+      "tags": ["gaming mouse", "wireless", "gadget"],
+      "brand": "GameMaster",
+      "sku": "GMX1",
+      "weight": 150,
+      "dimensions": {
+        "width": 7,
+        "height": 12,
+        "depth": 4
+      },
+      "warrantyInformation": "6 months warranty",
+      "shippingInformation": "Ships in 2-4 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Best mouse I've used for gaming!",
+          "date": "2024-10-22T09:00:00.000Z",
+          "reviewerName": "Chris Williams",
+          "reviewerEmail": "chris.williams@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-10-22T09:00:00.000Z",
+        "updatedAt": "2024-10-22T09:00:00.000Z",
+        "barcode": "6543210987654",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/gadget/Wireless%20Gaming%20Mouse%20X1/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/gadget/Wireless%20Gaming%20Mouse%20X1/thumbnail.png"
+    },
+    {
+      "id": 9,
+      "title": "RGB Gaming Mouse M2",
+      "description": "RGB Gaming Mouse M2 features customizable RGB lighting, ultra-precise sensors, and an ergonomic design to enhance your gaming experience.",
+      "category": "gadget",
+      "price": 39.99,
+      "discountPercentage": 10.0,
+      "rating": 4.6,
+      "stock": 100,
+      "tags": ["gaming mouse", "rgb", "gadget"],
+      "brand": "RGBTech",
+      "sku": "RGBM2",
+      "weight": 120,
+      "dimensions": {
+        "width": 8,
+        "height": 13,
+        "depth": 4
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "The RGB lights are stunning and it's so comfortable to use.",
+          "date": "2024-10-23T16:00:00.000Z",
+          "reviewerName": "Oliver Brown",
+          "reviewerEmail": "oliver.brown@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-10-23T16:00:00.000Z",
+        "updatedAt": "2024-10-23T16:00:00.000Z",
+        "barcode": "3210987654321",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/gadget/RGB%20Gaming%20Mouse%20M2/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/gadget/RGB%20Gaming%20Mouse%20M2/thumbnail.png"
+    },
+    {
+      "id": 10,
+      "title": "Ergonomic Gaming Mouse Z1",
+      "description": "Ergonomic Gaming Mouse Z1 is built for comfort and performance, featuring a 16,000 DPI sensor and customizable side buttons.",
+      "category": "gadget",
+      "price": 89.99,
+      "discountPercentage": 5.0,
+      "rating": 4.7,
+      "stock": 50,
+      "tags": ["gaming mouse", "ergonomic", "gadget"],
+      "brand": "ErgoTech",
+      "sku": "ETZ1",
+      "weight": 130,
+      "dimensions": {
+        "width": 8,
+        "height": 12,
+        "depth": 5
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 4-6 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Super comfortable, perfect for long gaming sessions.",
+          "date": "2024-10-25T13:30:00.000Z",
+          "reviewerName": "James Clark",
+          "reviewerEmail": "james.clark@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-10-25T13:30:00.000Z",
+        "updatedAt": "2024-10-25T13:30:00.000Z",
+        "barcode": "5678901234567",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/gadget/Ergonomic%20Gaming%20Mouse%20Z1/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/gadget/Ergonomic%20Gaming%20Mouse%20Z1/thumbnail.png"
+    }
+  ]
+}
